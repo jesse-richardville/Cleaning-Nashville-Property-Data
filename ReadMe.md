@@ -13,6 +13,7 @@ Data was queried using SSMS and has been documented in the ".sql" file.
 The data was cleaned and transformed using SSMS to create useful queries for the project and has been extracted and saved as a ".csv" file, which was imported into Microsoft Power BI for visualization.
 
 The Power BI dashboard can be viewed [here](https://app.powerbi.com/reportEmbed?reportId=ba83fa40-10c0-4e3f-afd3-dc4497417b83&autoAuth=true&ctid=dd9514d9-0843-4d4f-8158-06bf09d7ea7c).
+
 https://app.powerbi.com/links/qmpaDv7X2J?ctid=dd9514d9-0843-4d4f-8158-06bf09d7ea7c&pbi_source=linkShare
 
 ## Summary
