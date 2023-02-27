@@ -1,4 +1,4 @@
-# SQL Data Cleaning, Nashville Property 
+# SQL Data Cleaning, Nashville Property Data
 ## ReadMe
 ### Skills used: MS SQL Server (Convert, Populate Nulls, Split, CTE, Remove Duplicates, Remove Columns, Case, Aggregate) and Power BI 
 
